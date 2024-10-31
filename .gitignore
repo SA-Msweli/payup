@@ -1,0 +1,9 @@
+/contract/target
+/node_modules
+.next/
+.swc/
+*.log
+*.pid
+*.seed
+*.pid.lock
+*.env
